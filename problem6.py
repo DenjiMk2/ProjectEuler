@@ -1,0 +1,1 @@
+print(sum(list(range(1,101)))**2 - sum(e**2 for e in list(range(1,101))))
